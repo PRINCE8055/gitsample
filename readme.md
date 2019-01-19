@@ -1,0 +1,1 @@
+this is sample git repository for tutorial purpose
